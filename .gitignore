@@ -1,0 +1,13 @@
+dist
+build
+node_modules/*
+.env
+.log
+npm-debug.log
+stats.json
+.DS_Store
+fakes3/*
+.idea
+*.pem
+*.key
+*.cert
